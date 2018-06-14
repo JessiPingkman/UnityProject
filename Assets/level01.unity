@@ -724,7 +724,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c68644ee4d4df244b81da114417dae5e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rigidBody: {fileID: 0}
+  rigidBody: {fileID: 1612024443}
   forwardForse: 2000
   sidewayForse: 500
 --- !u!1001 &1747026076
